@@ -1,0 +1,20 @@
+body {
+    background-color: #202025;
+}
+
+h1 {
+    color: white;
+    font-family: 'Poppins', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+    font-size: 35px;
+    line-height: 0.0em;
+    position: absolute;
+    top: 100px; /* or whatever top you need */
+    left: 50%;
+    width: auto;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}    
