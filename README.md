@@ -1,2 +1,2 @@
-# my-profile
+# My-profile
 My Resume and Interests
